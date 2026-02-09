@@ -21,7 +21,7 @@ Sistema embarcado de monitorização térmica e alerta em tempo real, desenvolvi
 ## 📂 Estrutura do Repositório
 - `/src`: Código-fonte principal do firmware.
 - `/docs`: Relatório técnico detalhado em PDF.
-- `/assets`: Imagens e esquemas do projeto.
+- `/assets`: Imagens do projeto.
 
 ## 👩‍💻 Autor
 - **Késia Lais dos Santos Souza**
